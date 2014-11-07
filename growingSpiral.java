@@ -4,6 +4,9 @@ import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
 
+//By using swing and java GUI, this program will draw a growing spiral on a boarder. 
+//The spiral's speed will increase or decrease depending on where the mouse wheel is moved.
+
 public class Lab4 extends JFrame {
 	public Lab4(){
 		// lab 4 is set as title bar for JFrame
